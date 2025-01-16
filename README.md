@@ -2,16 +2,16 @@
 
 This project simulates the motion of a projectile using physics principles and visualizes the trajectory.
 
-# How to Run
+## How to Run
 1. Install Python (if not already installed).
 2. Install Matplotlib: `pip install matplotlib`.
 3. Run the script: `python projectile_motion.py`.
 
-# Features
+## Features
 - Calculates time of flight, maximum height, and range.
 - Visualizes the projectile's trajectory.
 
-# Example
+## Example
 Input:
 Initial Velocity: 50 m/s Angle: 45 degrees
 
